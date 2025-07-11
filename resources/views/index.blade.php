@@ -31,7 +31,7 @@
 
           <div class="col-lg-6">
             <div class="hero-image">
-              <img src="assets/img/illustration/illustration-16.webp" alt="Business Growth" class="img-fluid" loading="lazy">
+              <img src="/Invent/assets/img/illustration/illustration-16.webp" alt="Business Growth" class="img-fluid" loading="lazy">
             </div>
           </div>
         </div>
@@ -103,15 +103,15 @@
           <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
             <div class="row gy-4">
               <div class="col-lg-6">
-                <img src="assets/img/about/about-portrait-1.webp" class="img-fluid" alt="">
+                <img src="/Invent/assets/img/about/about-portrait-1.webp" class="img-fluid" alt="">
               </div>
               <div class="col-lg-6">
                 <div class="row gy-4">
                   <div class="col-lg-12">
-                    <img src="assets/img/about/about-8.webp" class="img-fluid" alt="">
+                    <img src="/Invent/assets/img/about/about-8.webp" class="img-fluid" alt="">
                   </div>
                   <div class="col-lg-12">
-                    <img src="assets/img/about/about-12.webp" class="img-fluid" alt="">
+                    <img src="/Invent/assets/img/about/about-12.webp" class="img-fluid" alt="">
                   </div>
                 </div>
               </div>
@@ -395,7 +395,7 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="cta-image-wrapper">
-              <img src="assets/img/cta/cta-4.webp" alt="Call to Action" class="img-fluid rounded-4">
+              <img src="/Invent/assets/img/cta/cta-4.webp" alt="Call to Action" class="img-fluid rounded-4">
               <div class="cta-pattern"></div>
             </div>
           </div>
@@ -460,10 +460,10 @@
             <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="assets/img/portfolio/portfolio-1.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="/Invent/assets/img/portfolio/portfolio-1.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="assets/img/portfolio/portfolio-1.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="bi bi-eye"></i></a>
+                      <a href="/Invent/assets/img/portfolio/portfolio-1.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="bi bi-eye"></i></a>
                       <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
                     </div>
                   </div>
@@ -479,10 +479,10 @@
             <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-graphics">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="assets/img/portfolio/portfolio-10.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="/Invent/assets/img/portfolio/portfolio-10.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="assets/img/portfolio/portfolio-10.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="bi bi-eye"></i></a>
+                      <a href="/Invent/assets/img/portfolio/portfolio-10.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="bi bi-eye"></i></a>
                       <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
                     </div>
                   </div>
@@ -498,10 +498,10 @@
             <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-motion">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="assets/img/portfolio/portfolio-7.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="/Invent/assets/img/portfolio/portfolio-7.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="assets/img/portfolio/portfolio-7.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-motion"><i class="bi bi-eye"></i></a>
+                      <a href="/Invent/assets/img/portfolio/portfolio-7.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-motion"><i class="bi bi-eye"></i></a>
                       <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
                     </div>
                   </div>
@@ -517,10 +517,10 @@
             <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-brand">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="assets/img/portfolio/portfolio-4.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="/Invent/assets/img/portfolio/portfolio-4.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="assets/img/portfolio/portfolio-4.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-brand"><i class="bi bi-eye"></i></a>
+                      <a href="/Invent/assets/img/portfolio/portfolio-4.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-brand"><i class="bi bi-eye"></i></a>
                       <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
                     </div>
                   </div>
@@ -536,10 +536,10 @@
             <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="/Invent/assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="assets/img/portfolio/portfolio-2.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="bi bi-eye"></i></a>
+                      <a href="/Invent/assets/img/portfolio/portfolio-2.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="bi bi-eye"></i></a>
                       <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
                     </div>
                   </div>
@@ -555,10 +555,10 @@
             <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-graphics">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="assets/img/portfolio/portfolio-11.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="/Invent/assets/img/portfolio/portfolio-11.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="assets/img/portfolio/portfolio-11.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="bi bi-eye"></i></a>
+                      <a href="/Invent/assets/img/portfolio/portfolio-11.webp" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="bi bi-eye"></i></a>
                       <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
                     </div>
                   </div>
@@ -818,7 +818,7 @@
           <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="100">
             <div class="team-card">
               <div class="team-image">
-                <img src="assets/img/person/person-m-1.webp" class="img-fluid" alt="">
+                <img src="/Invent/assets/img/person/person-m-1.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.</p>
                   <div class="team-social">
@@ -839,7 +839,7 @@
           <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="200">
             <div class="team-card">
               <div class="team-image">
-                <img src="assets/img/person/person-f-6.webp" class="img-fluid" alt="">
+                <img src="/Invent/assets/img/person/person-f-6.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
                   <p>Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque. Nunc dignissim risus id metus.</p>
                   <div class="team-social">
@@ -860,7 +860,7 @@
           <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
             <div class="team-card">
               <div class="team-image">
-                <img src="assets/img/person/person-m-6.webp" class="img-fluid" alt="">
+                <img src="/Invent/assets/img/person/person-m-6.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
                   <p>Cras ornare tristique elit. Integer in dui quis est placerat ornare. Phasellus a lacus a risus.</p>
                   <div class="team-social">
@@ -881,7 +881,7 @@
           <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
             <div class="team-card">
               <div class="team-image">
-                <img src="assets/img/person/person-f-3.webp" class="img-fluid" alt="">
+                <img src="/Invent/assets/img/person/person-f-3.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
                   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
                   <div class="team-social">
@@ -959,7 +959,7 @@
                     <i class="bi bi-star-fill"></i>
                   </div>
                   <div class="profile-info">
-                    <img src="assets/img/person/person-m-8.webp" alt="Profile Image">
+                    <img src="/Invent/assets/img/person/person-m-8.webp" alt="Profile Image">
                     <div>
                       <h3>Robert Johnson</h3>
                       <h4>Marketing Director</h4>
@@ -986,7 +986,7 @@
                     <i class="bi bi-star-fill"></i>
                   </div>
                   <div class="profile-info">
-                    <img src="assets/img/person/person-f-3.webp" alt="Profile Image">
+                    <img src="/Invent/assets/img/person/person-f-3.webp" alt="Profile Image">
                     <div>
                       <h3>Lisa Williams</h3>
                       <h4>Product Manager</h4>
@@ -1013,7 +1013,7 @@
                     <i class="bi bi-star-fill"></i>
                   </div>
                   <div class="profile-info">
-                    <img src="assets/img/person/person-f-10.webp" alt="Profile Image">
+                    <img src="/Invent/assets/img/person/person-f-10.webp" alt="Profile Image">
                     <div>
                       <h3>Emma Parker</h3>
                       <h4>UX Designer</h4>
@@ -1040,7 +1040,7 @@
                     <i class="bi bi-star-fill"></i>
                   </div>
                   <div class="profile-info">
-                    <img src="assets/img/person/person-m-5.webp" alt="Profile Image">
+                    <img src="/Invent/assets/img/person/person-m-5.webp" alt="Profile Image">
                     <div>
                       <h3>David Miller</h3>
                       <h4>Senior Developer</h4>
@@ -1067,7 +1067,7 @@
                     <i class="bi bi-star-fill"></i>
                   </div>
                   <div class="profile-info">
-                    <img src="assets/img/person/person-m-2.webp" alt="Profile Image">
+                    <img src="/Invent/assets/img/person/person-m-2.webp" alt="Profile Image">
                     <div>
                       <h3>Michael Davis</h3>
                       <h4>CEO &amp; Founder</h4>
@@ -1094,7 +1094,7 @@
                     <i class="bi bi-star-fill"></i>
                   </div>
                   <div class="profile-info">
-                    <img src="assets/img/person/person-f-7.webp" alt="Profile Image">
+                    <img src="/Invent/assets/img/person/person-f-7.webp" alt="Profile Image">
                     <div>
                       <h3>Sarah Thompson</h3>
                       <h4>Art Director</h4>
