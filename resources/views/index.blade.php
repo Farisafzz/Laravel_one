@@ -37,42 +37,17 @@
         </div>
 
         <div class="row feature-boxes">
-          <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-box">
-              <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
-                <i class="bi bi-gear"></i>
-              </div>
-              <div class="feature-content">
-                <h3 class="feature-title">Rapid Deployment</h3>
-                <p class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
-              </div>
-            </div>
-          </div>
+            <x-data-aos title="Judul Bagian Pertama" icon="gear">
+              <b>Ini adalah konten</b> untuk bagian pertama yang akan dianimasikan dengan AOS.
+            </x-data-aos>
+            <x-data-aos title="Judul Bagian Pertama" icon="airplane">
+              <b>Ini adalah konten</b> untuk bagian pertama yang akan dianimasikan dengan AOS.
+            </x-data-aos>
+            <x-data-aos title="Judul Bagian Pertama" icon="airplane">
+              <b>Ini adalah konten</b> untuk bagian pertama yang akan dianimasikan dengan AOS.
+            </x-data-aos>
+      </div>
 
-          <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="feature-box">
-              <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
-                <i class="bi bi-window"></i>
-              </div>
-              <div class="feature-content">
-                <h3 class="feature-title">Advanced Security</h3>
-                <p class="feature-text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
-            <div class="feature-box">
-              <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
-                <i class="bi bi-headset"></i>
-              </div>
-              <div class="feature-content">
-                <h3 class="feature-title">Dedicated Support</h3>
-                <p class="feature-text">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-            </div>
-          </div>
-        </div>
 
       </div>
 
@@ -138,65 +113,23 @@
         <div class="steps-5">
           <div class="process-container">
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="200">
-              <div class="content">
-                <span class="step-number">01</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-pencil-square"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Project Planning</h3>
-                    <p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End Process Item -->
+          <x-process-step step="01" icon="pencil-square" title="Project Planning" delay="200">
+          Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+          </x-process-step>
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="300">
-              <div class="content">
-                <span class="step-number">02</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-gear"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Development Phase</h3>
-                    <p>Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End Process Item -->
+          <x-process-step step="02" icon="gear" title="Development Phase" delay="300">
+          Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus.
+          </x-process-step>
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="400">
-              <div class="content">
-                <span class="step-number">03</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-search"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Testing &amp; QA</h3>
-                    <p>Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End Process Item -->
+          <x-process-step step="03" icon="search" title="Testing & QA" delay="400">
+          Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus.
+          </x-process-step>
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="500">
-              <div class="content">
-                <span class="step-number">04</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-rocket-takeoff"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Launch &amp; Support</h3>
-                    <p>Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End Process Item -->
+          <x-process-step step="04" icon="bi bi-rocket-takeoff" title="Testing & QA" delay="400">
+          Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus.
+          </x-process-step>
+  </div>
+</div>
 
           </div>
         </div>
@@ -218,101 +151,30 @@
 
         <div class="row justify-content-center g-5">
 
-          <div class="col-md-6" data-aos="fade-right" data-aos-delay="100">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-code-slash"></i>
-              </div>
-              <div class="service-content">
-                <h3>Custom Web Development</h3>
-                <p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          <x-end-service-item icon="laptop" title="Web Development" delay="100">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+          </x-end-service-item>
 
-          <div class="col-md-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-phone-fill"></i>
-              </div>
-              <div class="service-content">
-                <h3>Mobile App Solutions</h3>
-                <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus magna justo, lacinia eget consectetur sed. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          <x-end-service-item icon="phone-fill" title="Mobile App Solutions" delay="100">
+          Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus magna justo, lacinia eget consectetur sed. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada.
+          </x-end-service-item>
 
-          <div class="col-md-6" data-aos="fade-right" data-aos-delay="200">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-palette2"></i>
-              </div>
-              <div class="service-content">
-                <h3>UI/UX Design</h3>
-                <p>Pellentesque in ipsum id orci porta dapibus. Proin eget tortor risus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          <x-end-service-item icon="palette" title="UI/UX Design" delay="200">
+          Pellentesque in ipsum id orci porta dapibus. Proin eget tortor risus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.
+          </x-end-service-item>
 
-          <div class="col-md-6" data-aos="fade-left" data-aos-delay="200">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-bar-chart-line"></i>
-              </div>
-              <div class="service-content">
-                <h3>Digital Marketing</h3>
-                <p>Donec rutrum congue leo eget malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          <x-end-service-item icon="bar-chart-line" title="Digital Marketing" delay="200">
+          Donec rutrum congue leo eget malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit.
+          </x-end-service-item>
 
-          <div class="col-md-6" data-aos="fade-right" data-aos-delay="300">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-cloud-check"></i>
-              </div>
-              <div class="service-content">
-                <h3>Cloud Computing</h3>
-                <p>Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          <x-end-service-item icon="cloud-check" title="Cloud Computing" delay="300">
+          Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.
+          </x-end-service-item>
 
-          <div class="col-md-6" data-aos="fade-left" data-aos-delay="300">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-shield-lock"></i>
-              </div>
-              <div class="service-content">
-                <h3>Cybersecurity Solutions</h3>
-                <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec sollicitudin molestie malesuada. Curabitur arcu erat, accumsan id imperdiet et. Proin eget tortor risus.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          <x-end-service-item icon="shield-lock" title="Cybersecurity Solutions" delay="300">
+          Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec sollicitudin molestie malesuada. Curabitur arcu erat, accumsan id imperdiet et. Proin eget tortor risus.
+          </x-end-service-item>
+<!-- End Service Item -->
 
         </div>
 
@@ -320,7 +182,8 @@
 
     </section><!-- /Services Section -->
 
-    <!-- Services Alt Section -->
+
+       <!-- Services Alt Section -->
     <section id="services-alt" class="services-alt section">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -386,8 +249,7 @@
       </div>
 
     </section><!-- /Services Alt Section -->
-
-    <!-- Call To Action 2 Section -->
+  <!-- Call To Action 2 Section -->
     <section id="call-to-action-2" class="call-to-action-2 section light-background">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
