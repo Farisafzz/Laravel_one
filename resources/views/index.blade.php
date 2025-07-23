@@ -202,53 +202,42 @@
             </div>
           </div>
           <div class="col-lg-6">
-            <div class="services-list">
-              <div class="service-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
-                <div class="service-icon">
-                  <i class="bi bi-code-square"></i>
-                </div>
-                <div class="service-content">
-                  <h4><a href="service-details.html">Software Engineering</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                </div>
-              </div><!-- End Service Item -->
+        <div class="services-list">
 
-              <div class="service-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="300">
-                <div class="service-icon">
-                  <i class="bi bi-graph-up"></i>
-                </div>
-                <div class="service-content">
-                  <h4><a href="service-details.html">Business Analytics</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                </div>
-              </div><!-- End Service Item -->
+          <x-end-service-item2m 
+            icon="code-square" 
+            title="Software Engineering" 
+            link="service-details.html" 
+            delay="200" 
+            description="Lorem ipsum dolor sit amet consectetur adipiscing." />
 
-              <div class="service-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="400">
-                <div class="service-icon">
-                  <i class="bi bi-phone"></i>
-                </div>
-                <div class="service-content">
-                  <h4><a href="service-details.html">Mobile Solutions</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                </div>
-              </div><!-- End Service Item -->
+          <x-end-service-item2m 
+            icon="graph-up" 
+            title="Business Analytics" 
+            link="service-details.html" 
+            delay="300" 
+            description="Lorem ipsum dolor sit amet consectetur adipiscing." />
 
-              <div class="service-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="500">
-                <div class="service-icon">
-                  <i class="bi bi-gear"></i>
-                </div>
-                <div class="service-content">
-                  <h4><a href="service-details.html">Tech Infrastructure</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                </div>
-              </div><!-- End Service Item -->
-            </div>
-          </div>
+          <x-end-service-item2m 
+            icon="phone" 
+            title="Mobile Solutions" 
+            link="service-details.html" 
+            delay="400" 
+            description="Lorem ipsum dolor sit amet consectetur adipiscing." />
+
+          <x-end-service-item2m 
+            icon="gear" 
+            title="Tech Infrastructure" 
+            link="service-details.html" 
+            delay="500" 
+            description="Lorem ipsum dolor sit amet consectetur adipiscing." />
+
         </div>
-
       </div>
-
-    </section><!-- /Services Alt Section -->
+    </div>
+  </div>
+</section>
+<!-- /Services Alt Section -->
   <!-- Call To Action 2 Section -->
     <section id="call-to-action-2" class="call-to-action-2 section light-background">
 
